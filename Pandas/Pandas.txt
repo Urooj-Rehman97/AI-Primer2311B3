@@ -1,0 +1,12 @@
+Pandas python ki library h (jo excel type data handle krti h)
+Read csv files (comma seperated files)
+Pandas have 2 main data structures
+  Series (1D data)
+  Dataframes (2D, Row column format)
+Install Pandas : pip install Pandas
+Import pandas (import pandas as pd)
+Built in methods
+ head() (Read top 5 rows)
+ tail() (Read last 5 rows)
+ info() (dataset ka structure btata h example: Columns, Data types, Null Values)
+ describe() (Numerical data ki summary data h...mean, average sum)
